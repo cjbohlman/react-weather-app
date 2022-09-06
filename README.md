@@ -1,3 +1,12 @@
+# React Weather App
+This is a weather app made in React.
+
+### Technologies used
+ - React
+ - NodeJS
+ - APIs
+  
+
 Tutorial from the following video
 https://www.youtube.com/watch?v=Reny0cTTv24
 
