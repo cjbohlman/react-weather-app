@@ -5,10 +5,8 @@ This is a weather app made in React.
  - React
  - NodeJS
  - APIs
-  
 
-Tutorial from the following video
-https://www.youtube.com/watch?v=Reny0cTTv24
+Tutorial from [here](https://www.youtube.com/watch?v=Reny0cTTv24)
 
 # Getting Started with Create React App
 
