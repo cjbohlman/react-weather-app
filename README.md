@@ -4,6 +4,7 @@ This is a weather app made in React.
 ### Technologies used
  - React
  - NodeJS
+ - HTML/CSS
  - APIs
 
 Tutorial from [here](https://www.youtube.com/watch?v=Reny0cTTv24)
